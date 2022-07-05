@@ -1,0 +1,11 @@
+print('Pakkapon')
+print(' Worarat')
+print(' Satang')
+print('17 years old')
+print('Male')
+print('pkkp.wrrt')
+print('175 cm')
+print('Basketball')
+print('Chonradsadornumrung School')
+print('31/01/2548')
+#Pakkapon Worarat No.31
